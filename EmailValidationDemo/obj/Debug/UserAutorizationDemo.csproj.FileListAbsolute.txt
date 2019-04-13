@@ -1,0 +1,7 @@
+C:\Users\Petr\source\repos\EmailValidationDemo\EmailValidationDemo\obj\Debug\UserAutorizationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\EmailValidationDemo\EmailValidationDemo\bin\Debug\UserAutorizationDemo.exe.config
+C:\Users\Petr\source\repos\EmailValidationDemo\EmailValidationDemo\bin\Debug\UserAutorizationDemo.exe
+C:\Users\Petr\source\repos\EmailValidationDemo\EmailValidationDemo\bin\Debug\UserAutorizationDemo.pdb
+C:\Users\Petr\source\repos\EmailValidationDemo\EmailValidationDemo\obj\Debug\UserAutorizationDemo.csprojAssemblyReference.cache
+C:\Users\Petr\source\repos\EmailValidationDemo\EmailValidationDemo\obj\Debug\UserAutorizationDemo.exe
+C:\Users\Petr\source\repos\EmailValidationDemo\EmailValidationDemo\obj\Debug\UserAutorizationDemo.pdb
